@@ -1,5 +1,5 @@
 # Potential Problems we could have when...
-## *Creating and producing an augmented reality game which involves a user viewing a AR world in front of him which contains a series of 3D creations which attempt to attack the user in there 3D space* 
+## *Creating and producing an augmented reality game which involves a user viewing a AR world in front of him/her which contains a series of 3D creations which attempt to attack the user in there 3D space* 
 
 > ### "Problems are not stop signs, they are guidelines." *Robert H. Schuller*
 

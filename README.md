@@ -1,4 +1,10 @@
-# Software Projects
+# Software Project
+
+## An Augumented Reality Gaming Enviorment controled by the User's Motion Tracked Hands allowing them to kill incoming Enemys, utilising the Oculus Rift, a Motion Tracker,and a 3D live rooming scanning tool.
+
+## *How hard can it be?*
+
+----
 
 1. ### **The Project Plan**
 	
